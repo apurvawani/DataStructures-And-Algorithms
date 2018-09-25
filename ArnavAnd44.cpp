@@ -18,7 +18,7 @@ Constraints :
 
 Output Format :
 Print "YES" if Arnav can distribute them equally among the children in Orphanage.
-else print "NO"
+else print "NO".
 */
 
 #include <cmath>
